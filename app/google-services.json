@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733902566786",
+    "project_id": "photostorage-c568f",
+    "storage_bucket": "photostorage-c568f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733902566786:android:d69aeefcd61c3df60f8b9b",
+        "android_client_info": {
+          "package_name": "com.funnco.photostorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733902566786-r2gh4dacelms5q5p910geh5r3hsprbef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funnco.photostorage",
+            "certificate_hash": "f8c6a479782347686e31ec0487f7afa547e6686f"
+          }
+        },
+        {
+          "client_id": "733902566786-im4pc46rrfin2cmp1cvkro5pe518mocl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9STpN542HNGxl6MEl54iB1EpT8zVkmDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733902566786-im4pc46rrfin2cmp1cvkro5pe518mocl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
